@@ -2,7 +2,7 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on rebuilding my website to Vue.
+<!-- - 🔭 I’m currently working on rebuilding my website to Vue. -->
 - 🌱 Currently I am learning Javascript and Vue
 - 💬 Ask me about Python, JavaScript, Vue ... all sorts of things. I am glad to answer you with any question.
 - 📫 If you want to reach me you can go to my website **https://bogdankostyuk.xyz** and there you can submit a form with your message.
